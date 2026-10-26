@@ -1,6 +1,6 @@
 # DSA 4060XA – Week 6: Evaluating Recommender Systems
 
-**Name:** J. P. Chawanda
+**Name:** Justice Chawanda
 **Student ID:** 670444
 **Submitted:** 26 October 2026
 
